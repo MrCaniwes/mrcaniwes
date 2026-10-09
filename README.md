@@ -13,24 +13,24 @@
 
 <br/>
 
-### 👨‍💻 Hakkımda
-Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş bir yelpazede yüksek performanslı projeler üreten tutkulu bir geliştiriciyim. 
-* ⚡ **Masaüstü & Hibrit:** C#, WPF, .NET ve WebView2 ile modern, sıfır CORS kısıtlamalı fütüristik masaüstü yazılımları geliştiriyorum.
-* 🎮 **Oyun Modlama & Sunucu Sistemleri:** Özel eklentiler, launcher'lar ve sunucu mimarileri üzerine çalışıyorum.
-* 🌐 **Backend & API:** Node.js, WebSockets ve RESTful API servisleri üretiyorum.
-* 🎨 **Tasarım Felsefem:** Kod yazarken en yüksek performansı, siber/koyu estetik ve kusursuz kullanıcı deneyimi (UI/UX) ile harmanlamak.
+### 👨‍💻 About Me
+Hey there! I'm **Çağan (MrCaniwes)**, a passionate software developer crafting high-performance desktop applications, modern web services, and sleek cyber-aesthetic interfaces.
+* ⚡ **Desktop & Hybrid:** Building modern, zero-CORS desktop suites utilizing C#, WPF, .NET, and Microsoft Edge WebView2.
+* 🎮 **Game Modding & Infrastructure:** Developing custom game modifications, dedicated launchers, and server plugins.
+* 🌐 **Backend & APIs:** Engineering scalable backend solutions, WebSockets, and RESTful APIs with Node.js.
+* 🎨 **Design Philosophy:** Combining blazing-fast native performance with futuristic dark UI/UX and micro-animations.
 
 <br/>
 
-### 🚀 Öne Çıkan Projeler
+### 🚀 Featured Projects
 
-| Proje | Açıklama | Teknolojiler |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[API Cockpit Studio](https://github.com/MrCaniwes/HTTPRequest)** | Zero-CORS yerel HTTP/REST test kokpiti. Bearer/API Key Auth, HUD Dashboard ve istek geçmişi çekmecesi. | `C#` `WPF` `WebView2` `HTML5/CSS3` |
+| **[API Cockpit Studio](https://github.com/MrCaniwes/HTTPRequest)** | Zero-CORS native desktop HTTP & REST testing cockpit featuring Bearer/API Key Auth, HUD Dashboard, and slide-over history drawer. | `C#` `WPF` `WebView2` `HTML5/CSS3` |
 
 <br/>
 
-### 💻 Teknolojiler & Beceriler
+### 💻 Technologies & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
@@ -48,8 +48,8 @@ Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş 
 <br/>
 
 <div align="center">
-  <!-- Topluluklar & İletişim -->
-  <h3>🌐 Topluluklar & Bağlantılar</h3>
+  <!-- Communities & Links -->
+  <h3>🌐 Communities & Socials</h3>
   <p>
     <a href="https://instagram.com/yazilim.shop" target="_blank">
       <img src="https://img.shields.io/badge/@yazilim.shop-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yazilim.shop"/>
@@ -61,7 +61,7 @@ Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş 
 
   <br/>
 
-  <!-- Canlı GitHub İstatistikleri -->
+  <!-- Real-time GitHub Stats -->
   <table align="center" border="0">
     <tr>
       <td align="center" width="50%">
@@ -75,6 +75,6 @@ Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş 
   
   <br/>
 
-  <!-- Streak Stats Card -->
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrCaniwes&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
