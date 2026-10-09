@@ -1,6 +1,6 @@
 <div align="center">
   
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+MrCaniwes;CSSharp+Developer;WPF+%26+Electron+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+MrCaniwes;CSSharp+Developer;WPF%26Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 
   <!-- Badges / Roles -->
   <p>
