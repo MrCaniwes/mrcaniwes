@@ -1,13 +1,12 @@
 <div align="center">
   <!-- Typing Effect Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+MrCaniwes;Full-Stack+%26+Desktop+Dev;WPF+%26+WebView2+Specialist;UI%2FUX+Cyber+Aesthetic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+MrCaniwes;C%23+%26+.NET+Developer;WPF+%26+WebView2+Specialist;UI%2FUX+Cyber+Aesthetic" alt="Typing SVG" />
 
   <!-- Role Badges -->
   <p>
     <img src="https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Developer" />
     <img src="https://img.shields.io/badge/.NET_%26_WPF-Specialist-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF Specialist" />
     <img src="https://img.shields.io/badge/WebView2-Hybrid_Apps-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="WebView2" />
-    <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Developer" />
     <img src="https://img.shields.io/badge/UI%2FUX-Designer-F15BB5?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer" />
   </p>
 </div>
@@ -40,7 +39,6 @@ Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş 
   <img src="https://img.shields.io/badge/WebView2-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" alt="WebView2" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -63,7 +61,7 @@ Merhaba! Ben **Çağan (MrCaniwes)**. Yazılım geliştirme dünyasında geniş 
 
   <br/>
 
-  <!-- Canlı GitHub İstatistikleri (Doğrudan MrCaniwes Profilinize Bağlı) -->
+  <!-- Canlı GitHub İstatistikleri -->
   <table align="center" border="0">
     <tr>
       <td align="center" width="50%">
